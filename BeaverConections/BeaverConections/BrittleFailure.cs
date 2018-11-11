@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BeaverConections
 {
+    //Class to calculate brittle failure
     class BrittleFailure
     {
         public double a1;
