@@ -1,0 +1,7 @@
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+G:\Team Drives\MADEIRA\_BEAVER\BEAVER (atualizar pf!!!)\Madeira\Madeira\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb

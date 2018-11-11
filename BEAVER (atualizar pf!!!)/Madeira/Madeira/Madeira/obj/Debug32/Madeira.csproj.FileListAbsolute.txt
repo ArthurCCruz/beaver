@@ -1,0 +1,6 @@
+c:\users\marcio\source\repos\Madeira\Madeira\bin\Madeira.dll
+c:\users\marcio\source\repos\Madeira\Madeira\bin\Madeira.pdb
+c:\users\marcio\source\repos\Madeira\Madeira\obj\Debug32\Madeira.csprojResolveAssemblyReference.cache
+c:\users\marcio\source\repos\Madeira\Madeira\obj\Debug32\Madeira.csproj.CoreCompileInputs.cache
+c:\users\marcio\source\repos\Madeira\Madeira\obj\Debug32\Madeira.dll
+c:\users\marcio\source\repos\Madeira\Madeira\obj\Debug32\Madeira.pdb

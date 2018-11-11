@@ -1,0 +1,6 @@
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\obj\Debug32\BeaverConections.csprojAssemblyReference.cache
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\obj\Debug32\BeaverConections.csproj.CoreCompileInputs.cache
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\bin\BeaverConections.dll
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\bin\BeaverConections.pdb
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\obj\Debug32\BeaverConections.dll
+G:\Team Drives\MADEIRA\_BEAVER\BeaverConections\BeaverConections\obj\Debug32\BeaverConections.pdb
