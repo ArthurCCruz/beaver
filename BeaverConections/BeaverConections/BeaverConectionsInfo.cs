@@ -50,7 +50,7 @@ namespace BeaverConections
             get
             {
                 //Return a string representing your preferred contact details.
-                return "";
+                return "test";
             }
         }
     }
